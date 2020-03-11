@@ -1,5 +1,5 @@
 %   ROBOTICS FUNDAMENTALS
-%   Liam Weight 2019
+%   Code published by "masin" for education and professional portfolio purposes only. Any plagarism will not be tolerated.
 
 clear
 close all
