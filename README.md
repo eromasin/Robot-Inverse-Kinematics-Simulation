@@ -1,7 +1,7 @@
 # LynxmotionAL5DKinematics
 
 Coursework code Robotics MSc course using Matlab. Simulation of the LynxmotionAL5D Kinematics. Code specifications as per below.
-Code published for education and professional portfolio purposes only. Any plagarism will not be tolerated.  
+Code published by "eromasin" for education and professional portfolio purposes only. Any plagarism will not be tolerated.  
 
 A. From material covered during lectures, lab exercises and examples, complete the following tasks:
 1) Derive a DH representation of forward kinematics for the Lynxmotion arm1. 
