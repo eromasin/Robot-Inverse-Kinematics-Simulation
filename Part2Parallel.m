@@ -1,3 +1,5 @@
+% Code published by "masin" for education and professional portfolio purposes only. Any plagarism will not be tolerated.
+
 clear all
 clc
 close all
@@ -229,5 +231,5 @@ end
 
 line(base(1,:),base(2,:), 'Color', 'blue');
 plot(0,0,'blue+');
-title("Workspace of Planar Parallel Robot with orientation: "+Alpha+"°"); xlabel('x (mm)') ; ylabel('y (mm)'); zlabel('z (mm)');
+title("Workspace of Planar Parallel Robot with orientation: "+Alpha+"Â°"); xlabel('x (mm)') ; ylabel('y (mm)'); zlabel('z (mm)');
 axis equal;
