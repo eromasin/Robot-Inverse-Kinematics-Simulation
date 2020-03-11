@@ -1,5 +1,5 @@
 %   ROBOTICS FUNDAMENTALS
-%   Liam Weight 2019
+%   Code published by "masin" for education and professional portfolio purposes only. Any plagarism will not be tolerated.
 function a = AvoidLine(px, py, pz)
     L1 = 6; L2 = 15; L3 = 15; L4 = 3.5; L5 = 6.5;     
     cw24 = -1;
