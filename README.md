@@ -1,4 +1,4 @@
-# LynxmotionAL5DKinematics
+# Mate Lab Kinematics
 
 Coursework code Robotics MSc course using Matlab. Simulation of the LynxmotionAL5D Kinematics. Code specifications as per below.
 Code published by "masin" for education and professional portfolio purposes only. Any plagarism will not be tolerated.  
@@ -7,7 +7,7 @@ A. From material covered during lectures, lab exercises and examples, complete t
 1) Derive a DH representation of forward kinematics for the Lynxmotion arm1. 
 Use MATLAB, lecture material and further reading. Include all your investigations and report this.
 
-2) Analyse the workspace of the centre of the wrist (5thjoint) when each preceding joint moves through its 
+2) Analyse the workspace of the centre of the wrist (5th joint) when each preceding joint moves through its 
 range of motion and plot the 2D and 3D views of the workspace.
 
 3) Derive the inverse kinematics model for the manipulator (analytical solution).
