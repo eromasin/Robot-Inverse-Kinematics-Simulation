@@ -1,4 +1,4 @@
-# Mate Lab Kinematics
+# Mat Lab Kinematics
 
 Coursework code Robotics MSc course using Matlab. Simulation of the LynxmotionAL5D Kinematics. Code specifications as per below.
 Code published by "masin" for education and professional portfolio purposes only. Any plagarism will not be tolerated.  
